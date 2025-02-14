@@ -1,5 +1,5 @@
 # GBC-Links
-links
+links:
 
 ## Links
 - [D2L](https://learn.georgebrown.ca)
